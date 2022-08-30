@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Patilpankajsudhakar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Patilpankajsudhakar/Patilpankajsudhakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in ... Data science
+- 🌱 I’m currently learning ... Machine learning algorithms and deep learning
+- 💞️ I’m looking to working on ... Hand-on Projects.
+- 📫 How to reach me ... [Linkedin Profile](https://www.linkedin.com/in/pankaj-patil-a963361b9)
