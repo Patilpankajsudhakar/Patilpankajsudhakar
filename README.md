@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Patilpankajsudhakar
 - 👀 I’m interested in ... Data science
-- 🌱 I’m currently learning ... Machine learning algorithms and deep learning
-- 💞️ I’m looking to working on ... Hand-on Projects.
+- 🌱 I’m currently learning ... Python,Machine learning algorithms and deep learning
+- 💞️ I’m looking to working on ...Learn from Scract and  Hand-on Projects.
 - 📫 How to reach me ... [Linkedin Profile](https://www.linkedin.com/in/pankaj-patil-a963361b9)
